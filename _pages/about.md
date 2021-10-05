@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a master student at [ENS Paris Saclay](https://ens-paris-saclay.fr/en){:target="\_blank"}. I am also part of the consortium [SingleStatOmics](https://anr-singlestatomics.pages.math.cnrs.fr/){:target="\_blank"}.
+I am a PhD student at ENS Lyon. I am also part of the consortium [SingleStatOmics](https://anr-singlestatomics.pages.math.cnrs.fr/){:target="\_blank"}.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
